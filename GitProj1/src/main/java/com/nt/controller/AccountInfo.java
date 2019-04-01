@@ -1,5 +1,5 @@
 package com.nt.controller;
 
-public class AccountInfo {
+public class AccountInfo  {
 
 }
