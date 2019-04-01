@@ -8,4 +8,5 @@ public class AccountCommand {
 	private String bankName;
 	private String location;
 
+	
 }
